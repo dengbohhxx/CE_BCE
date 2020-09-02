@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  2 15:09:09 2020
 
-@author: dengbo
-"""
 
 import torch
 import torch.nn.functional as F
